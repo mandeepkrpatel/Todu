@@ -1,0 +1,32 @@
+
+
+.main_container{
+  margin: 0;
+  padding: 0;
+  background-color: aqua;
+  height: 100vh;
+
+}
+.center{
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  background-color: white;
+  border-radius: 10px;
+}
+.center h1{
+  text-align: center;
+  background-color: royalblue;
+  padding: 0 0 20px 0;
+  border-bottom: 1px solid silver
+  
+}
+.form{
+  padding: 0 40px;
+  box-sizing: border-box;
+  margin: 40px;
+  
+}
+.blue-color {
+  color:blue;
+}
