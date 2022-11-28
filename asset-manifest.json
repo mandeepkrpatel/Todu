@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todu/static/css/main.7643c078.css",
+    "main.js": "/Todu/static/js/main.af1952f8.js",
+    "index.html": "/Todu/index.html",
+    "main.7643c078.css.map": "/Todu/static/css/main.7643c078.css.map",
+    "main.af1952f8.js.map": "/Todu/static/js/main.af1952f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7643c078.css",
+    "static/js/main.af1952f8.js"
+  ]
+}
